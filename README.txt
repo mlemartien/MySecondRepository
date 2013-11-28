@@ -1,5 +1,5 @@
 This is a simple text file.
 Just added a second line.
-New line for version 4.
+New line for version 3 & 4.
 This line is added in the master
 Line added in hotfix
